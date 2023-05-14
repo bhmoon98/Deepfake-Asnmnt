@@ -1,0 +1,6 @@
+# Ignore High Quality and Low Quality folders
+High Quality/
+Low Quality/
+
+# Ignore all .docx files
+*.docx
